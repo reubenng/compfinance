@@ -1,4 +1,4 @@
 # compfinance
 
 ## to-dos
-general function for portfolio, set any asset allocation 0
+general function for any size efficient portfolio, set any asset allocation
